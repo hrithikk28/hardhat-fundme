@@ -1,6 +1,6 @@
 {
   "name": "hardhat-fundme",
-  "author": "Hrithik Keshri",
+  "author": "Hrithik",
   "version": "1.0.0",
   "devDependencies": {
     "@chainlink/contracts": "^0.8.0",
